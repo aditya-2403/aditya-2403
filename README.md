@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya P Sahoo</h1>
-<h3 align="center">A passionate frontend developer from India, Currently pursuing my Bachelors degree in Computer Science and Engineering at XIM University Bhubaneswar</h3>
+<h3 align="center">A passionate software developer from India, Currently working at STL Pvt Ltd</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-2403&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-2403" /> </p>
 
