@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-2403&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-2403" /> </p>
 
-- 🔭 I’m currently working on [Digiverse360](https://digiverse360.in)
+- 🔭 I’m currently working on [Haven](https://dev-haven.netlify.app/)
 
-- 🌱 I’m currently learning **NextJS, Java SpringBoot**
+- 🌱 I’m currently learning **NextJS, NestJs**
 
 - 👯 I’m looking to collaborate on **Cool Frontend Projects**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **apsahoo2403@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1k9z5Zbvf_I1vjbS3M_NKp6GMxs42ZQGF/view?usp=sharing](https://drive.google.com/file/d/1k9z5Zbvf_I1vjbS3M_NKp6GMxs42ZQGF/view?usp=sharing)
+- 📄 Know about my experiences [Download Resume](https://drive.google.com/file/d/1EWqR2zaVZN3PVzuTnSOwaJ_Tcu_IcUJu/view?usp=sharing)
 
 - ⚡ Fun fact **I am an Aviation Enthusiast, ask me about planes**
 
